@@ -1,0 +1,5 @@
+#python
+def fun(n):
+    return(n**3)
+n=int(input())
+print(fun(n))
