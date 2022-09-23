@@ -1,0 +1,23 @@
+#python
+def add(a,b):
+    return(a+b)
+def sub(a,b):
+    return(a-b)
+def mult(a,b):
+    return(a*b)
+def fd(a,b):
+    return(a/b)
+def rem(a,b):
+    return(a//b)
+def mod(a,b):
+    return(a%b)
+a=int(input())
+b=int(input())
+print(add(a,b))
+print(sub(a,b))
+print(mult(a,b))
+print(fd(a,b))
+print(rem(a,b))
+print(mod(a,b))
+
+    
